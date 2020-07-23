@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/info_bar"
+        android:icon="@drawable/ic_help_24dp"
+        android:orderInCategory="200"
+        android:title="Info"
+        app:showAsAction="always">
+    </item>
+
+    <!--
+    <item
+        android:id="@+id/account_bar"
+        android:icon="@drawable/ic_account_circle_24dp"
+        android:orderInCategory="200"
+        android:title="Account"
+        app:showAsAction="always">
+    </item>
+    -->
+
+    <!--
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />
+        -->
+
+    <item
+        android:id="@+id/share_bar"
+        android:icon="@drawable/ic_share_24dp"
+        android:orderInCategory="200"
+        android:title="Share"
+        app:showAsAction="always"/>
+        <!-- android:icon="@drawable/ic_share_24dp" -->
+
+
+</menu>

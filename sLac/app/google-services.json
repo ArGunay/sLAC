@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96850067027",
+    "firebase_url": "https://slac-2a708.firebaseio.com",
+    "project_id": "slac-2a708",
+    "storage_bucket": "slac-2a708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96850067027:android:9630bcfd86477d79",
+        "android_client_info": {
+          "package_name": "com.slac.slac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96850067027-nn9v87s5mqr2gg28rsqtjdahp17rlin4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slac.slac",
+            "certificate_hash": "b23d671a0986e65a7f0259f0ff36de183dbeaf42"
+          }
+        },
+        {
+          "client_id": "96850067027-dkb0k5456emvp43gat6jlusardo5utf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGoxExQpx5N9BpbXk-l83UF0UxDpuqEuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96850067027-dkb0k5456emvp43gat6jlusardo5utf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
